@@ -1,14 +1,14 @@
-# 🃏 Proyecto Blackjack – Versión 2.0  
+# 🃏 Proyecto Blackjack   
 Entrega 3 
 
-## 👥 Integrantes del Grupo
+## Integrantes del Grupo
 - Juan Pablo Gómez Martínez
 - Juan Sebastián Gaviria Murillo
 - Camilo Stiven Pineda Reyes
 
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 Este proyecto consiste en la creación del juego **Blackjack** utilizando programación orientada a objetos (POO) en C++. La estructura del programa se fundamenta en el **Diagrama de Clases versión 2.0**, integrando conceptos como:
 - Encapsulamiento  
 - Herencia  
